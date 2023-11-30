@@ -8,6 +8,9 @@ Remover Lista: Lista pode ser removidas da lista com facilidade.
 
 Armazenamento Local: Utilize a propriedade localStoragedo JavaScript para salvar as tarefas. Isso garante que as informações persistam mesmo ao recarregar a página, proporcionando uma experiência contínua ao usuário.
 
+# Como acessar
+Entre por esse link: https://cleciolira.github.io/Projeto_Lista_de_Tarefas/
+
 # Estrutura do Projeto
 index.html: Contém a estrutura da página web.
 
