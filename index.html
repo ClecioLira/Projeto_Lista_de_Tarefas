@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Tarefas</title>
+    <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <section class="newItemEntry">
+                <h1>Lista de Tarefas</h1>
+                <input id="newItem" type="text" size="40" autocomplete="off" placeholder="Digitar tarefa" tabindex="0">
+                <button id="addItem" class="button" title="Digitar tarefa" aria-label="Digite sua nova tarefa" tabindex="0" type="button">+</button>
+        </section>
+
+        <section class="listContainer">
+            <div class="listTitle">
+                <h2>Tarefas</h2>
+                <button id="clearItems" class="button" title="Limpar toda lista" aria-label="Limpar todas as tarefas da lista" tabindex="0">Limpar lista</button>
+            </div>
+            <ul id="listItems"></ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Site criado por <a href="https://github.com/ClecioLira" target="_blank">Clécio Lira</a></p>
+    </footer>
+</body>
+    <script src="script.js"></script>
+</html>
