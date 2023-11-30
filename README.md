@@ -10,7 +10,9 @@ Armazenamento Local: Utilize a propriedade localStoragedo JavaScript para salvar
 
 # Estrutura do Projeto
 index.html: Contém a estrutura da página web.
+
 style.css: Arquivo de estilo para estilizar e deixar a página responsiva para diferentes tipos de telas.
+
 script.js: Lógica do lado do cliente para manipulação da lista de tarefas e interação com o localStorage.
 
 # Contribuições
